@@ -4,8 +4,8 @@
     
     * [tweetstats.woolweaver.bid](https://tweetstats.woolweaver.bid/)
 
-    * [home.pi.hole.woolweaver.bid](https://home.pi.hole.woolweaver.bid/)
+    * [python-cloudflare-ddns.woolweaver.bid](https://python-cloudflare-ddns.woolweaver.bid/)
     
-    * [cloud.pi.hole.woolweaver.bid](https://cloud.pi.hole.woolweaver.bid/)
+    * [only_torrent_over_vpn.woolweaver.bid](https://only_torrent_over_vpn.woolweaver.bid/)
     
   * [zaedin.woolweaver.bid](https://zaedin.woolweaver.bid/)
